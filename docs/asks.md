@@ -41,10 +41,10 @@
 
 ### 1.2. 2026-07-03 12:54:45 KST
 
-요약: npm run dev > csstest@0.1.0 dev > next dev ▲ Next.js 14.2.5 - Local: http://localhost:300...
+요약: npm.cmd run dev > csstest@0.1.0 dev > next dev ▲ Next.js 14.2.5 - Local: http://localhost:300...
 
 ~~~text
- npm run dev
+npm.cmd run dev
 
 > csstest@0.1.0 dev
 > next dev
